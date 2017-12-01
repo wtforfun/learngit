@@ -4,5 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes of files.
 test remote repository.
-Creating a new branch is quick and simple.
+Creating a new branch is quick and simple and free.
 test --no-ff.
+add cooperation.
